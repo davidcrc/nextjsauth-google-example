@@ -15,3 +15,5 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+![alt text for screen readers](/resources/image_auth.png "Screen2")
